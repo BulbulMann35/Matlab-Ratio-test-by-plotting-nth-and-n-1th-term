@@ -10,4 +10,3 @@ for c0=1:6;
   plot(t,c,'-')
   hold on
 end
-%}
